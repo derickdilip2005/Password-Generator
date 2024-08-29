@@ -1,0 +1,62 @@
+body {
+    align-items: center;
+    text-align: left;
+}
+
+h1{
+    margin: 0;
+    margin-top: 80px;
+    font-size: 37px;
+    color: white;
+    margin-left: 10%;
+}
+
+#random{
+    margin-top: 0;
+    font-size: 37px;
+    margin-left: 10%;
+    color: rgb(57, 164, 57);
+    margin-bottom: 1px;
+}
+
+#box{
+    background-color: rgb(52, 52, 52);
+    width: 400px;
+    margin: auto;
+    border: solid rgb(213, 213, 213) 5px;
+}
+
+p{
+    color: grey;
+    margin-left: 10%;
+    margin-top: 5px;
+}
+
+#generateP{
+    background-color: rgb(57, 164, 57);
+    color: white;
+    margin-left: 10%;
+    margin-top: 30px;
+    padding: 5px;
+    width: 150px;
+    margin-bottom: 0;
+    cursor: pointer;
+}
+
+button{
+    background-color: rgb(88, 88, 88);
+    color: rgb(57, 164, 57);
+    margin-left: 10%;
+    padding: 5px;
+    width: 150px;
+    height: 32px;
+    border: none;
+    border-radius: 8px;
+    margin-bottom: 80px;
+}
+
+hr{
+    border-color: rgb(116, 116, 116);
+    width: 80%; 
+    margin-top: 25px
+}
