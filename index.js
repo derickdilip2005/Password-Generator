@@ -21,8 +21,3 @@ function generatePwd(){
         pass2.textContent += characters[y]
     }
 }
-
-// function randChar(){
-//     let x = Math.floor(Math.random()*characters.length)
-//     return
-// }
